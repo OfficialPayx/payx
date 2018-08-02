@@ -1,1 +1,3 @@
-# payx
+# PAYX
+
+[PAYX](https://www.mypayx.net/) is an innovative project to create crypto-payment environment based on mutual confidence by **Real-time Cryptocurrency Value Confirmation Process(RCVCP) to overcome the limitation of various raising capital projects aiming to use themselves as a payment method in our real economy**. PAYX is the most realistic crypto-payment project adopting the advantages to protect customers right and to reduce the role as a mediator. PAYX is apparently differentiated from direct crypto-payment project in that regard.
